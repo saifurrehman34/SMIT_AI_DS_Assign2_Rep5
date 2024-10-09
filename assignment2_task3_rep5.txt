@@ -1,1 +1,3 @@
 This is a new file created as part of Assignment 2, Task #3. The task requires making changes to files on the local computer before pushing them to GitHub.
+
+This is an activity as part of Assignment 2, Task #5. The task requires making additional changes directly on GitHub (in the cloud).
