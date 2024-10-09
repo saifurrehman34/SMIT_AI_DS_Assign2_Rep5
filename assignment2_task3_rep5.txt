@@ -1,0 +1,1 @@
+This is a new file created as part of Assignment 2, Task #3. The task requires making changes to files on the local computer before pushing them to GitHub.
